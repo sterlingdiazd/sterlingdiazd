@@ -108,14 +108,32 @@ Multi-agent AI pipeline that detects overbilling, rate mismatches, and contract 
 </p>
 
 ### AI & automation
+
+I build production AI systems with a governance-first posture: multi-agent pipelines, schema-versioned JSON contracts, human-in-the-loop, deterministic fallback, kill switch, audit log, and provider-agnostic abstractions.
+
 <p>
   <img src="https://img.shields.io/badge/-Anthropic%20Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Anthropic Claude">
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square" alt="OpenAI">
   <img src="https://img.shields.io/badge/-Semantic%20Kernel-008080?style=flat-square" alt="Semantic Kernel">
-  <img src="https://img.shields.io/badge/-RAG-7E57C2?style=flat-square" alt="RAG">
   <img src="https://img.shields.io/badge/-MCP-2C3E50?style=flat-square" alt="MCP">
-  <img src="https://img.shields.io/badge/-Embeddings-7E57C2?style=flat-square" alt="Embeddings">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/-AI%20Agents-7E57C2?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/-Multi--Agent%20Orchestration-7E57C2?style=flat-square" alt="Multi-Agent Orchestration">
+  <img src="https://img.shields.io/badge/-RAG-7E57C2?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/-Embeddings-7E57C2?style=flat-square" alt="Embeddings">
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-7E57C2?style=flat-square" alt="Prompt Engineering">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/-Structured%20Output%20%2F%20JSON%20Contracts-3E5C76?style=flat-square" alt="Structured Output / JSON Contracts">
+  <img src="https://img.shields.io/badge/-Human--in--the--Loop-3E5C76?style=flat-square" alt="Human-in-the-Loop">
+  <img src="https://img.shields.io/badge/-Deterministic%20Fallback-3E5C76?style=flat-square" alt="Deterministic Fallback">
+  <img src="https://img.shields.io/badge/-Confidence%20%26%20Risk%20Scoring-3E5C76?style=flat-square" alt="Confidence and Risk Scoring">
+  <img src="https://img.shields.io/badge/-AI%20Governance%20%26%20Kill%20Switch-3E5C76?style=flat-square" alt="AI Governance and Kill Switch">
+  <img src="https://img.shields.io/badge/-AI%20Audit%20Log-3E5C76?style=flat-square" alt="AI Audit Log">
+  <img src="https://img.shields.io/badge/-Provider--Agnostic%20Abstraction-3E5C76?style=flat-square" alt="Provider-Agnostic Abstraction">
 </p>
 
 ---
