@@ -22,9 +22,8 @@
 
 ### NursingCare — enterprise on-demand care platform
 
-A three-tier system for managing on-demand nursing and home residential care services. Greenfield, solo, Clean Architecture + DDD, RBAC, audit-safe transaction logging.
+A three-tier system for managing on-demand nursing and home residential care services. Greenfield, solo, Clean Architecture + DDD, RBAC, audit-safe transaction logging. Backend is private client work under confidentiality; the two client-facing repos below are public.
 
-- [`NursingCare`](https://github.com/sterlingdiazd/NursingCare) — .NET 10 backend, EF Core, JWT/OAuth2, CQRS handlers
 - [`nursing-care-web`](https://github.com/sterlingdiazd/nursing-care-web) — React 19 + TypeScript admin dashboard with audit logs
 - [`nursing-care-mobile`](https://github.com/sterlingdiazd/nursing-care-mobile) — React Native + Expo (iOS + Android)
 
